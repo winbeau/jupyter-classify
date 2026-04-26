@@ -32,6 +32,8 @@ Thumbs.db
 
 # Project-generated experiment outputs
 lastframe_*/
+!lastframe_8/
+!lastframe_8/**
 outputs/
 figures/
 plots/
